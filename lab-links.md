@@ -10,3 +10,7 @@
 ## FIT4110 lab 03 - Postman Mock Testing
 - Repository: <https://github.com/quynh1111/Analytics-Service-Lab03.git>
 
+
+## FIT4110 lab 04 - Docker_packaging
+- Repository: <https://github.com/quynh1111/Analytics-Service-Lab04.git>
+
