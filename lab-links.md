@@ -14,3 +14,6 @@
 ## FIT4110 lab 04 - Docker_packaging
 - Repository: <https://github.com/quynh1111/Analytics-Service-Lab04.git>
 
+## FIT4110 lab 05 - Docker_compose
+- Repository: < https://github.com/quynh1111/Analytics-Service-Lab05.git >
+
