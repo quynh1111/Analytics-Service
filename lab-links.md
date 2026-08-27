@@ -17,6 +17,9 @@
 ## FIT4110 lab 05 - Docker_compose
 - Repository: <https://github.com/quynh1111/Analytics-Service-Lab05.git>
 
+## FIT4110 buổi test connection
+- Repository: <https://github.com/quynh1111/Analytics-Service-test-connection.git>
+
 ## FIT4110 Phân chia công việc:
 - Đinh Trọng Quỳnh: 40 %
 - Đặng Quốc An: 30 %
